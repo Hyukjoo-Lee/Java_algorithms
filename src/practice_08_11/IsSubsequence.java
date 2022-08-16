@@ -1,7 +1,5 @@
 package practice_08_11;
 
-import java.util.HashMap;
-
 public class IsSubsequence {
 
 	public static void main(String[] args) {

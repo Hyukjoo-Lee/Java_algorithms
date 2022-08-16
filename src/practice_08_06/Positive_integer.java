@@ -54,9 +54,6 @@ public class Positive_integer {
 		
 	}
 	
-	/**
-	 * My answer
-	 */
 	private static void showSmallestNum() {
 		int[] arrA = {-1,1,5,3,7,6,4,10,2,8,-10}; // To test 
 		int returnNum; // the smallest number
